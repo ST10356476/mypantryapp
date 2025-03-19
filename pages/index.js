@@ -9,7 +9,7 @@ const Home = () => {
         <title>Pantry Management</title>
       </Head>
       <Typography variant="h2" gutterBottom>
-        Welcome to Pantry Management
+        Welcome to Pantry Management System that helps you organize different Items.
       </Typography>
       <Typography variant="body1">
         Manage your pantry items efficiently.
